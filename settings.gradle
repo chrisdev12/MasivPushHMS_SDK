@@ -1,2 +1,3 @@
+include ':MasivPushHms'
 include ':app'
 rootProject.name = "SDKMasivPushHMS"
